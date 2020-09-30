@@ -7,6 +7,12 @@
 - Player has to shoot down all the alien before it reaches the bottom.
 - Bullets can be shoot three per time.
 
+## Controls:
+- **Shoot**: Spacebar
+- **Left (Movement)**: Left arrow
+- **Right (Movement)**: Right arrow
+- **Break**: ESC key (Freeeze the game for 10seconds)
+
 ### Others Things:
 - Levels are unlimited!
 - Game resolution can be changed using the change_res.py file.
