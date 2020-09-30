@@ -1,5 +1,6 @@
 # Alien-Invasion
-A simple alien game made in python using pygame module.
+## Author: github.com/Vickyarts
+### A simple alien game made in python using pygame module.
 
 ## Rules:
 - Player has three lives.
